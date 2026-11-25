@@ -4,7 +4,7 @@ project:
 website:
   description: "A blog built with Quarto"
   site-url: https://erhutuzi123.github.io/my_blog # you must change this appropriately for RSS feeds to work properly
-  title: "notes on learning Astrodynamics, Spacecraft Attitude Determination and Control"
+  title: "Xiaoyang's Notes on learning Astrodynamics, Spacecraft Attitude Determination and Control"
   navbar:
     right:
       - about.qmd
