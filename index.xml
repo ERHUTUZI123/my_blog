@@ -10,9 +10,9 @@
 <atom:link href="https://erhutuzi123.github.io/my_blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Wed, 25 Nov 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>[ADCS-01]</title>
+  <title>一块红布</title>
   <link>https://erhutuzi123.github.io/my_blog/posts/Nov25Learn/</link>
   <description><![CDATA[ 
 
@@ -20,15 +20,14 @@
 
 
 
-<p>Just started</p>
+<p>那天是你 用一块红布 蒙住我双眼也蒙住了天 你问我 看见了什么 我说我看见了 幸福 这个感觉 真让我舒服 他让我忘掉我没地儿住 你问我还要去何方 我说我要上你的路 我感觉 这不是荒野 可是你的土地已经干裂 我感觉 你身上有血 因为你的手总是热乎乎</p>
 
 
 
  ]]></description>
-  <category>math</category>
-  <category>notes</category>
+  <category>thoughts</category>
   <guid>https://erhutuzi123.github.io/my_blog/posts/Nov25Learn/</guid>
-  <pubDate>Wed, 25 Nov 2026 05:00:00 GMT</pubDate>
+  <pubDate>Thu, 26 Nov 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
