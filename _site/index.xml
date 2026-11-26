@@ -5,28 +5,29 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>notes on learning Astrodynamics, Spacecraft Attitude Determination and Control</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<title>Xiaoyang&#39;s Notes on learning Astrodynamics, Spacecraft Attitude Determination and Control</title>
+<link>https://erhutuzi123.github.io/my_blog/</link>
+<atom:link href="https://erhutuzi123.github.io/my_blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.11.9</generator>
 <lastBuildDate>Wed, 25 Nov 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>[ADCS-01]</title>
-  <link>https://your-website-url.example.com/posts/Nov25Learn/</link>
+  <link>https://erhutuzi123.github.io/my_blog/posts/Nov25Learn/</link>
   <description><![CDATA[ 
 
 
 
 
 
+<p>Just started</p>
 
 
 
  ]]></description>
   <category>math</category>
   <category>notes</category>
-  <guid>https://your-website-url.example.com/posts/Nov25Learn/</guid>
+  <guid>https://erhutuzi123.github.io/my_blog/posts/Nov25Learn/</guid>
   <pubDate>Wed, 25 Nov 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
